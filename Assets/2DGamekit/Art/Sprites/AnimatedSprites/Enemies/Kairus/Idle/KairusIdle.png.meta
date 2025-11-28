@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 2bda7a1ce7e03e445a1e19632db04133
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7045372917766114576
+    second: KairusIdle_0
+  - first:
+      213: -4982723096857442685
+    second: KairusIdle_1
+  - first:
+      213: 7532984271875293803
+    second: KairusIdle_2
+  - first:
+      213: -3726566513099720927
+    second: KairusIdle_3
+  - first:
+      213: -4155958913901059878
+    second: KairusIdle_4
+  - first:
+      213: -1071936147485998073
+    second: KairusIdle_5
+  - first:
+      213: -1405527908948060500
+    second: KairusIdle_6
+  - first:
+      213: -8640261005650810076
+    second: KairusIdle_7
+  - first:
+      213: 2014657920652150813
+    second: KairusIdle_8
+  - first:
+      213: 1786345113970401111
+    second: KairusIdle_9
+  - first:
+      213: -2318196848942439275
+    second: KairusIdle_10
+  - first:
+      213: -4417866175397553809
+    second: KairusIdle_11
+  - first:
+      213: -7121105423712822924
+    second: KairusIdle_12
+  - first:
+      213: -6364884745166335223
+    second: KairusIdle_13
+  - first:
+      213: 1811595934961354758
+    second: KairusIdle_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KairusIdle_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 510
+        width: 113
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d4b99375136c160800000000000000
+      internalID: 7045372917766114576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KairusIdle_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 510
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3868da53ebfc9dab0800000000000000
+      internalID: -4982723096857442685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KairusIdle_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 510
+        width: 117
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b624bb7a8498a8860800000000000000
+      internalID: 7532984271875293803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KairusIdle_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 384
+        width: 117
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12733d22083984cc0800000000000000
+      internalID: -3726566513099720927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KairusIdle_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 401
+        width: 103
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad02fc313611356c0800000000000000
+      internalID: -4155958913901059878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KairusIdle_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 402
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7044233d0c7bf11f0800000000000000
+      internalID: -1071936147485998073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KairusIdle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 125
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6d04940df8e7ce0800000000000000
+      internalID: -1405527908948060500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KairusIdle_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 259
+        width: 104
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b2687b460a71880800000000000000
+      internalID: -8640261005650810076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KairusIdle_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 259
+        width: 132
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18066864b085fb10800000000000000
+      internalID: 2014657920652150813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KairusIdle_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 120
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fd57caa6f5ac810800000000000000
+      internalID: 1786345113970401111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KairusIdle_10
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 120
+        width: 108
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5942b5b8f3c14dfd0800000000000000
+      internalID: -2318196848942439275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KairusIdle_11
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 245
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69173ece1690b2c0800000000000000
+      internalID: -4417866175397553809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KairusIdle_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 114
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4795d7ba850cc2d90800000000000000
+      internalID: -7121105423712822924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KairusIdle_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 116
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903de000c036ba7a0800000000000000
+      internalID: -6364884745166335223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KairusIdle_14
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 103
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608c9e397e4142910800000000000000
+      internalID: 1811595934961354758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      KairusIdle_0: 7045372917766114576
+      KairusIdle_1: -4982723096857442685
+      KairusIdle_10: -2318196848942439275
+      KairusIdle_11: -4417866175397553809
+      KairusIdle_12: -7121105423712822924
+      KairusIdle_13: -6364884745166335223
+      KairusIdle_14: 1811595934961354758
+      KairusIdle_2: 7532984271875293803
+      KairusIdle_3: -3726566513099720927
+      KairusIdle_4: -4155958913901059878
+      KairusIdle_5: -1071936147485998073
+      KairusIdle_6: -1405527908948060500
+      KairusIdle_7: -8640261005650810076
+      KairusIdle_8: 2014657920652150813
+      KairusIdle_9: 1786345113970401111
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

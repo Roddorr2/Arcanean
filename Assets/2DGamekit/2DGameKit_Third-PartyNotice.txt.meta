@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b6580c1460e4cdc4faed60b673cfbdfb
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107098
+  packageName: 2D Game Kit
+  packageVersion: 3.0
+  assetPath: Assets/2DGamekit/2DGameKit_Third-PartyNotice.txt
+  uploadId: 680389
